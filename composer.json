@@ -16,13 +16,13 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "flyingferret\\Seat\\Fitting\\": "src/"
+            "Denngarr\\Seat\\Fitting\\": "src/"
         }
     },
      "extra": {
         "laravel": {
             "providers": [
-                "flyingferret\\Seat\\Fitting\\FittingServiceProvider"
+                "Denngarr\\Seat\\Fitting\\FittingServiceProvider"
             ]
         }
     },
